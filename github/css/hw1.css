@@ -1,0 +1,38 @@
+
+header{
+	background:#BDBDBD;
+	font-size: 100%;
+}
+h1{
+	color :#FFFFFF;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+nav{
+	background: #BDBDBD;
+	font-size: 100%;
+	
+}
+a{
+	background: #FFFFFF;
+	color:#000000 ;
+	text-transform: capitalize;
+	font-family: serif;
+	font-weight: bold;
+}
+
+aside{
+	visibility: hidden;
+}
+
+section{
+	background: #757575;
+    position: relative;
+    bottom: 3980px;
+}
+
+h2{
+  color :#0000CC;
+text-transform: uppercase;
+}
